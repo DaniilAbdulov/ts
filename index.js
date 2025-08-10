@@ -1,1 +1,3 @@
-console.log(`hello world`);
+var ty = {
+    id: 1,
+};
